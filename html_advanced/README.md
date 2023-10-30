@@ -43,3 +43,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - Open your file in your browser (the page should be blank)
 - W3C won’t pass - you can ignore it
 
+
