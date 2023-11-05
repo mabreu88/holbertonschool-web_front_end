@@ -279,6 +279,10 @@ a:active {
     margin-right: auto;
 }
 
+.footer {
+    padding: var(--footer-padding);
+}
+
 :root {
     --color-black: #090909;
     --color-white: #ffffff;
