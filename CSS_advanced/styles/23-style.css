@@ -361,8 +361,8 @@ ul.row {
     display: block;
 }
 
-.social-link>svg {
-    background: var(--text-color);
+.social-link > svg {
+    fill: var(--text-color);
 }
 
 .footer ul {
