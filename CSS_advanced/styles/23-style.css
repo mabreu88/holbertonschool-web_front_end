@@ -338,12 +338,13 @@ ul.row {
 [class^="col-"] {
     float: left;
     padding: 0.5rem;
+
 }
 
 [data-section-theme="dark"] {
-    background-color: var(--color-white);
+    --text-color: var(--color-white);
     --section-title-color: var(--color-white);
-    --text-color: var(--color-black);
+    background-color: var(--color-black);
 }
 
 .footer-copyright {
